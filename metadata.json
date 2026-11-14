@@ -1,0 +1,6 @@
+{
+  "name": "BrokerVault",
+  "description": "Masked Broker Chat & Credential Sharing Android Application with 2-Layer Anti-Contact & Gemini AI Guard, Real-Time 4-Channel Alerts, and Google Sheets Sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
